@@ -27,11 +27,6 @@
 
 <br>
 
-
-**Full Stack Developer** \
-[**One Bit Code**](https://www.onebitcode.com/) • In progress \
-Skills:   `Bootstrap` `JavaScript` `Git` `GitHub` `TypeScript` `PostgreSQL` `NodeJs`
-
 <br>
 
 ## Contact me:
